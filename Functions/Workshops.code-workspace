@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Workshops"
+		},
+		{
+			"path": "../../../Workbook2/WB2-exercises"
+		},
+		{
+			"path": "../../../WebProjects/Calculator"
+		},
+		{
+			"path": "../../../../LearnToCode_Demos/Workbook3/02-javascript-functions-starter"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Workshops"
+	}
+}
